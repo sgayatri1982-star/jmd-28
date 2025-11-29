@@ -188,7 +188,7 @@ const Gallery = () => {
               <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-[#1f7a8c] to-[#022b3a] bg-clip-text text-transparent mb-2">
                 {galleryItems.length}+
               </div>
-              <p className="text-gray-600">Events Completed</p>
+              <p className="text-gray-600">Events gallery</p>
             </div>
             <div className="text-center">
               <div className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-[#1f7a8c] to-[#022b3a] bg-clip-text text-transparent mb-2">

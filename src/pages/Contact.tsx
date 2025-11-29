@@ -312,7 +312,7 @@ const Contact = () => {
                 <h3 className="text-2xl font-bold text-gray-900 mb-6">Visit Our Office</h3>
                 <div className="aspect-video bg-gray-200 rounded-xl overflow-hidden mb-6">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.1422937950147!2d-73.98731668482413!3d40.75889497932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1635959988619!5m2!1sen!2sus"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d918.6220602047187!2d77.30491287159246!3d28.390308807870365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdd007380ac9b%3A0x6505d393860c8d22!2sAVI%20Calibration%20Services%20LLP!5e1!3m2!1sen!2sin!4v1764405566375!5m2!1sen!2sin"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}

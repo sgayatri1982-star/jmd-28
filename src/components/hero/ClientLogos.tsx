@@ -50,6 +50,11 @@ const ClientLogos = () => {
     <section className="py-20 bg-gray-50 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
+          <div className="inline-block mb-4">
+            <span className="px-6 py-2 bg-gradient-to-r from-[#bfdbf7] to-[#e1e5f2] text-[#022b3a] rounded-full text-sm font-semibold tracking-wide uppercase">
+              Client's
+            </span>
+          </div>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             Trusted By
             <span className="bg-gradient-to-r from-[#1f7a8c] to-[#022b3a] bg-clip-text text-transparent">

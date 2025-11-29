@@ -59,6 +59,11 @@ const StatsSection = () => {
   return (
     <section className="py-20 bg-white">
       <div className="text-center mb-16">
+        <div className="inline-block mb-4">
+          <span className="px-6 py-2 bg-gradient-to-r from-[#bfdbf7] to-[#e1e5f2] text-[#022b3a] rounded-full text-sm font-semibold tracking-wide uppercase">
+            Stats Counter
+          </span>
+        </div>
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
             What Data Say About
             <span className="bg-gradient-to-r from-[#1f7a8c] to-[#022b3a] bg-clip-text text-transparent">

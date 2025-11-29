@@ -35,7 +35,7 @@ const TestimonialsSection = () => {
     return (
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
+          <div className="text-center mb-16"> 
             <div className="h-12 bg-gray-200 rounded mx-auto mb-4 max-w-md animate-pulse"></div>
             <div className="h-6 bg-gray-200 rounded mx-auto max-w-2xl animate-pulse"></div>
           </div>

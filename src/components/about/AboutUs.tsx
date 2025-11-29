@@ -26,7 +26,7 @@ const AboutUs = () => {
                 shared experiences, and the importance of celebrating life's precious moments.
               </p>
               <p className="text-lg">
-                Today, with over 500 successful events and countless happy clients, we continue to 
+                Today, with over 187 successful events and countless happy clients, we continue to 
                 push the boundaries of creativity and innovation in event planning. Every project 
                 is a new opportunity to create something truly special.
               </p>
@@ -55,7 +55,7 @@ const AboutUs = () => {
               </Link>
             </div>
           </div>
-          <div className="relative">
+          <div className="relative">  
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <img
                 src="https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop"
